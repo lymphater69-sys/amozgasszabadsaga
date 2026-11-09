@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amozgasszabadsaga.lymphater69.workers.dev/sitemap.xml
